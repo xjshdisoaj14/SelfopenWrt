@@ -1,3 +1,7 @@
+
+# 这是正在使用的核心版本，禁止删除
+
+
 # ActionsBuildOpenWRT
 Build OpenWRT By Github Actions
 
