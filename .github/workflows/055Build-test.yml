@@ -13,7 +13,7 @@ env:
   CONFIG_FILE: test.config
   DIY_P1_SH: sh/test-part1.sh
   DIY_P2_SH: sh/test-part2.sh
-  UPLOAD_BIN_DIR: false
+  UPLOAD_BIN_DIR: true  ###上传 bin 目录。即包含所有 ipk 文件和固件的目录
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
   UPLOAD_WETRANSFER: false
